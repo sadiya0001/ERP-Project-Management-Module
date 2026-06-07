@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏗️ ERP Project Management Module
 
 ## Group 13 | Enterprise Resource Planning System
@@ -190,3 +191,6 @@ Erp system/
 ## 📝 License
 
 This project is developed as part of IT2305 Continuous Assessment 1 at the University.
+=======
+# ERP-Project-Management-Module
+>>>>>>> 7e71441237357af43d9062574815f97abe097e4a
